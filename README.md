@@ -6,26 +6,23 @@ This repository is created to keep track of my learning journey in the field of 
 
 ### Papers
 
-- [Paper 1](link_to_paper_1)
-- [Paper 2](link_to_paper_2)
-- ...
-
-### Code Implementations
-
-- [Code 1](link_to_code_1)
-- [Code 2](link_to_code_2)
-- ...
+- [PATCHY-SAN](https://arxiv.org/abs/1605.05273)
+- [GCN](https://arxiv.org/abs/1609.02907)
+- [GAT](https://arxiv.org/abs/1710.10903)
+- [GraphSAGE](https://arxiv.org/abs/1706.02216)
+- [GIN](https://arxiv.org/abs/1810.00826)
 
 ### Other Resources
 
-- [Blog 1](link_to_blog_1)
-- [Book 1](link_to_book_1)
-- ...
+- [[book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
+- [[book] Network Science](https://barabasi.com/book/network-science)
+
+### Other repos
+
+- [GNN papers](https://github.com/thunlp/GNNPapers)
+- [Graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+- [Graph Transformers](https://github.com/ChandlerBang/awesome-graph-transformer)
 
 ## Contribution
 
 If you find any errors or have suggestions for improving this repository, please feel free to create an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
