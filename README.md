@@ -16,12 +16,22 @@ This repository is created to keep track of my learning journey in the field of 
 
 - [[book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
 - [[book] Network Science](https://barabasi.com/book/network-science)
+- [[Python Framework] DGL](https://github.com/dmlc/dgl)
+- [[Python Framework] NetworkX](https://github.com/networkx/networkx)
+
 
 ### Other Repos
 
 - [GNN papers](https://github.com/thunlp/GNNPapers)
 - [Graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [Graph Transformers](https://github.com/ChandlerBang/awesome-graph-transformer)
+
+
+### Blogs
+
+- [GNN blogs](./Blogs/blogs.md#gnn-blogs)
+- [Graph Embedding Blogs](./Blogs/blogs.md#graph-embedding-blogs)
+- [Deep Learning Blogs](./Blogs/blogs.md#deep-learning-blogs)
 
 ## Contribution
 
