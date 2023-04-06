@@ -17,7 +17,7 @@ This repository is created to keep track of my learning journey in the field of 
 - [[book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
 - [[book] Network Science](https://barabasi.com/book/network-science)
 
-### Other repos
+### Other Repos
 
 - [GNN papers](https://github.com/thunlp/GNNPapers)
 - [Graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
