@@ -1,6 +1,6 @@
 # Graph Representation Learning Blogs
 
-Some useful blogs for understanding papers and their implementation
+Some useful blogs for understanding papers and their implementations
 
 ## GNN Blogs
 
@@ -20,4 +20,5 @@ Some useful blogs for understanding papers and their implementation
 - [理解 Word2Vec 之 Skip-Gram 模型](https://zhuanlan.zhihu.com/p/27234078)
 
 ## Deep Learning Blogs
+
 - [Self-Attention](https://zhuanlan.zhihu.com/p/410776234)
