@@ -1,4 +1,4 @@
-# Graph Learning Study
+# Graph ML Study
 
 This repository is created to keep track of my learning journey in the field of graph representation learning, graph neural networks, and graph classification. Here, you can find my study notes, code implementations, and other useful resources that I collected during my learning process.
 
