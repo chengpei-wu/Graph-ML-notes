@@ -30,9 +30,9 @@ This repository is created to keep track of my learning journey in the field of 
 
 ### Blogs
 
-- [GNN blogs](./Blogs/blogs.md#gnn-blogs)
-- [Graph Embedding Blogs](./Blogs/blogs.md#graph-embedding-blogs)
-- [Deep Learning Blogs](./Blogs/blogs.md#deep-learning-blogs)
+- [GNN blogs](Blogs/readme.md#gnn-blogs)
+- [Graph Embedding Blogs](Blogs/readme.md#graph-embedding-blogs)
+- [Deep Learning Blogs](Blogs/readme.md#deep-learning-blogs)
 
 ## Contribution
 
