@@ -11,6 +11,7 @@ This repository is created to keep track of my learning journey in the field of 
 - [GAT](https://arxiv.org/abs/1710.10903)
 - [GraphSAGE](https://arxiv.org/abs/1706.02216)
 - [GIN](https://arxiv.org/abs/1810.00826)
+- [High-order GNN](https://arxiv.org/abs/1810.02244)
 
 ### Other Resources
 
