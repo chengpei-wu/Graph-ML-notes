@@ -4,4 +4,4 @@
 - Slides of [Patchy-SAN](https://arxiv.org/abs/1605.05273), created by the authors. [[PDF]()]
 - Introduce of GNN. [[PDF](./GNN%20introduce.pdf)]
 - Introduce of WL-Test. [[PDF](WL%20test.pdf)]
-
+- Relationship of Transformer and GNN. [[PDF](./transformer%20and%20gnn.pdf)]
