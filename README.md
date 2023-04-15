@@ -16,9 +16,10 @@ This repository is created to keep track of my learning journey in the field of 
 ### Other Resources
 
 - [[book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
-- [[book] Network Science](https://barabasi.com/book/network-science)
+- [[book] Complex Network Books](https://1drv.ms/f/s!Asm9F-fHq1ErgReBq0gUXDez2fSJ)
 - [[Python Framework] DGL](https://github.com/dmlc/dgl)
 - [[Python Framework] NetworkX](https://github.com/networkx/networkx)
+
 
 
 ### Other Repos
