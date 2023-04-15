@@ -17,6 +17,7 @@ This repository is created to keep track of my learning journey in the field of 
 
 - [[book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
 - [[book] Complex Network Books](https://1drv.ms/f/s!Asm9F-fHq1ErgReBq0gUXDez2fSJ)
+- [[book] 动手学深度学习](https://zh-v2.d2l.ai)
 - [[Python Framework] DGL](https://github.com/dmlc/dgl)
 - [[Python Framework] NetworkX](https://github.com/networkx/networkx)
 
