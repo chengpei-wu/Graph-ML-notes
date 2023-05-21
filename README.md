@@ -20,6 +20,7 @@ This repository is created to keep track of my learning journey in the field of 
 - [[book] 动手学深度学习](https://zh-v2.d2l.ai)
 - [[Python Framework] DGL](https://github.com/dmlc/dgl)
 - [[Python Framework] NetworkX](https://github.com/networkx/networkx)
+- [[book] Graph Neural Networks: Foundations, Frontiers, and Applications](https://graph-neural-networks.github.io/index.html)
 
 
 
