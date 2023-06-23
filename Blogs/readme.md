@@ -13,7 +13,7 @@ Some useful blogs for understanding papers and their implementations
 - [Graphormer](https://zhuanlan.zhihu.com/p/520083583)
 - [SAGEConv源码解析](https://zhuanlan.zhihu.com/p/386171547)
 - [GNN卷积与池化的代表模型](https://zhuanlan.zhihu.com/p/161853672)
-- [https://zhuanlan.zhihu.com/p/161853672](https://zhuanlan.zhihu.com/p/161853672)
+- [Transformers are graph neural networks blog](https://graphdeeplearning.github.io/post/transformers-are-gnns/)
 
 ## Graph Embedding Blogs
 

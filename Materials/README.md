@@ -6,3 +6,4 @@
 - Introduction of WL-Test. [[PDF](WL%20test.pdf)]
 - Relationship of Transformer and GNN. [[PDF](./transformer%20and%20gnn.pdf)]
 - Introduction of _Graph Neural Networks: Foundations, Frontiers, and Applications_, on AAAI2023, created by Lingfei Wu et al. [[PDF](./GNNs_AAAI2023.pdf)]
+- Transformers are graph neural networks slides, created by Chaitanya K. Joshi. [[PDF](./transformers-are-gnns-slides.pdf)]
