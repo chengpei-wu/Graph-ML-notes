@@ -11,17 +11,17 @@ This repository is created to keep track of my learning journey in the field of 
 - [GAT](https://arxiv.org/abs/1710.10903)
 - [GraphSAGE](https://arxiv.org/abs/1706.02216)
 - [GIN](https://arxiv.org/abs/1810.00826)
-- [High-order GNN](https://arxiv.org/abs/1810.02244)
+- [Higher-order GNN](https://arxiv.org/abs/1810.02244)
 
 ### Other Resources
 
-- [[book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
-- [[book] Complex Network Books](https://1drv.ms/f/s!Asm9F-fHq1ErgReBq0gUXDez2fSJ)
-- [[book] 动手学深度学习](https://zh-v2.d2l.ai)
+- [[Book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
+- [[Book] Complex Network Books](https://1drv.ms/f/s!Asm9F-fHq1ErgReBq0gUXDez2fSJ)
+- [[Book] 动手学深度学习](https://zh-v2.d2l.ai)
 - [[Python Framework] DGL](https://github.com/dmlc/dgl)
 - [[Python Framework] NetworkX](https://github.com/networkx/networkx)
-- [[book] Graph Neural Networks: Foundations, Frontiers, and Applications](https://graph-neural-networks.github.io/index.html)
-
+- [[Book] Graph Neural Networks: Foundations, Frontiers, and Applications](https://graph-neural-networks.github.io/index.html)
+- [[Course] CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/index.html#content)
 
 
 ### Other Repos
