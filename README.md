@@ -12,7 +12,7 @@ resources that I collected during my learning process.
 
 - [The Graph Neural Network Model, TNN-2009](https://ieeexplore.ieee.org/document/4700287)
 - [Efficient graphlet kernels for large graph comparison, AISTATS-2009](http://proceedings.mlr.press/v5/shervashidze09a.html)
-- [Weisfeiler-Lehman Graph Kernels, JMLR](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
+- [Weisfeiler-Lehman Graph Kernels, JMLR-2011](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
 - [DeepWalk: online learning of social representations, KDD-2014](https://dl.acm.org/doi/10.1145/2623330.2623732)
 
 #### 2016
