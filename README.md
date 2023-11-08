@@ -10,7 +10,9 @@ resources that I collected during my learning process.
 
 #### Before 2016
 
+- [The Graph Neural Network Model, TNN-2009](https://ieeexplore.ieee.org/document/4700287)
 - [Efficient graphlet kernels for large graph comparison, AISTATS-2009](http://proceedings.mlr.press/v5/shervashidze09a.html)
+- [Weisfeiler-Lehman Graph Kernels, JMLR](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf)
 - [DeepWalk: online learning of social representations, KDD-2014](https://dl.acm.org/doi/10.1145/2623330.2623732)
 
 #### 2016
@@ -25,6 +27,7 @@ resources that I collected during my learning process.
 - [Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs, CVPR](https://arxiv.org/abs/1704.02901)
 - [graph2vec: Learning Distributed Representations of Graphs, MLG Workshop](https://arxiv.org/abs/1707.05005)
 - [Neural Message Passing for Quantum Chemistry, ICML](https://dl.acm.org/doi/10.5555/3305381.3305512)
+- [Semi-Supervised Classification with Graph Convolutional Networks, ICLR](https://openreview.net/forum?id=SJU4ayYgl)
 
 #### 2018
 
@@ -41,12 +44,16 @@ resources that I collected during my learning process.
 - [A Simple Yet Effective Baseline For Non-Attributed Graph Classification, ICLR workshop on Representation learning on graphs and manifolds](https://arxiv.org/abs/1811.03508)
 - [DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification, KDD](https://dl.acm.org/doi/10.1145/3292500.3330950)
 - [Graph U-Nets, ICML](https://arxiv.org/abs/1905.05178)
+- [Provably Powerful Graph Networks, NIPS](https://proceedings.neurips.cc/paper/2019/hash/bb04af0f7ecaee4aae62035497da1387-Abstract.html)
+- [Self-Attention Graph Pooling, ICML](https://proceedings.mlr.press/v97/lee19c.html)
+- [Weisfeiler and leman go neural: higher-order graph neural networks, AAAI](https://dl.acm.org/doi/10.1609/aaai.v33i01.33014602)
 
 #### 2020
 
 - [A Survey on Graph Kernels, ML](https://arxiv.org/abs/1903.11835)
 - [Distance encoding: design provably more powerful neural networks for graph representation learning, NIPS](https://dl.acm.org/doi/abs/10.5555/3495724.3496099)
 - [Haar Graph Pooling, ICML](https://arxiv.org/abs/1909.11580)
+- [Rethinking pooling in graph neural networks, NIPS](https://dl.acm.org/doi/abs/10.5555/3495724.3495911)
 
 #### 2021
 
@@ -55,6 +62,9 @@ resources that I collected during my learning process.
 - [Do Transformers Really Perform Badly for Graph Representation?, NIPS](https://proceedings.neurips.cc/paper_files/paper/2021/file/f1c1592588411002af340cbaedd6fc33-Paper.pdf)
 - [Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting, ICLR](https://openreview.net/forum?id=LT0KSFnQDWF)
 - [Nested Graph Neural Networks, NIPS](https://openreview.net/forum?id=7_eLEvFjCi3)
+- [Simple Spectral Graph Convolution, ICLR](https://openreview.net/forum?id=CYO5T-YjWZV)
+- [Understanding Pooling in Graph Neural Networks, TNNLS](https://arxiv.org/abs/2110.05292)
+- [Wasserstein Embedding for Graph Learning, ICLR](https://openreview.net/forum?id=AAes_3W-2z)
 
 #### 2022
 
@@ -64,6 +74,10 @@ resources that I collected during my learning process.
 - [How Powerful are K-hop Message Passing Graph Neural Networks, NIPS](https://openreview.net/forum?id=nN3aVRQsxGd)
 - [How Powerful are Spectral Graph Neural Networks, ICML](https://arxiv.org/abs/2205.11172)
 - [Ordered Subgraph Aggregation Networks, NIPS](https://openreview.net/forum?id=w0QoqmUT9vJ)
+- [Structural Landmarking and Interaction Modelling: A “SLIM” Network for Graph Classification, AAAI](https://aaai.org/papers/09251-structural-landmarking-and-interaction-modelling-a-slim-network-for-graph-classification/)
+- [Topological Graph Neural Networks, ICLR](https://arxiv.org/abs/2102.07835)
+- [Universal Graph Transformer Self-Attention Networks, WWW](https://dl.acm.org/doi/10.1145/3487553.3524258)
+- [Survey on Graph Classification (图分类研究综述), Journal of Software](http://www.jos.org.cn/html/2022/1/6323.htm)
 
 #### 2023
 
@@ -75,6 +89,7 @@ resources that I collected during my learning process.
 - [Graph Pooling for Graph Neural Networks: Progress, Challenges, and Opportunities, IJCAI](https://arxiv.org/abs/2204.07321)
 - [MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization, ICLR](https://openreview.net/forum?id=P8YIphWNEGO)
 - [$\mathcal{N}$-WL：A New Hierarchy of Expressivity for Graph Neural Networks, ICLR](https://openreview.net/forum?id=5cAI0qXxyv)
+- [Rethinking the Expressive Power of GNNs via Graph Biconnectivity, ICLR](https://arxiv.org/abs/2301.09505)
 
 ### Other Resources
 
