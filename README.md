@@ -63,6 +63,7 @@ resources that I collected during my learning process.
 - [From Stars to Subgraphs: Uplifting Any GNN with Local Structure Awareness, ICLR](https://openreview.net/forum?id=Mspk_WYKoEH)
 - [How Powerful are K-hop Message Passing Graph Neural Networks, NIPS](https://openreview.net/forum?id=nN3aVRQsxGd)
 - [How Powerful are Spectral Graph Neural Networks, ICML](https://arxiv.org/abs/2205.11172)
+- [Ordered Subgraph Aggregation Networks, NIPS](https://openreview.net/forum?id=w0QoqmUT9vJ)
 
 #### 2023
 
