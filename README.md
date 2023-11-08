@@ -17,7 +17,7 @@ resources that I collected during my learning process.
 
 #### 2016
 
-- [Learning Convolutional Neural Networks for Graphs, ICML)](https://arxiv.org/abs/1605.05273)
+- [Learning Convolutional Neural Networks for Graphs, ICML](https://arxiv.org/abs/1605.05273)
 - [node2vec: Scalable Feature Learning for Networks, KDD](https://dl.acm.org/doi/10.1145/2939672.2939754)
 
 #### 2017
