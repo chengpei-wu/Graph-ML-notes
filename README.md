@@ -90,6 +90,7 @@ resources that I collected during my learning process.
 - [MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization, ICLR](https://openreview.net/forum?id=P8YIphWNEGO)
 - [$\mathcal{N}$-WL：A New Hierarchy of Expressivity for Graph Neural Networks, ICLR](https://openreview.net/forum?id=5cAI0qXxyv)
 - [Rethinking the Expressive Power of GNNs via Graph Biconnectivity, ICLR](https://arxiv.org/abs/2301.09505)
+- [Empowering Graph Representation Learning with Test-Time Graph Transformation, ICLR](https://openreview.net/forum?id=Lnxl5pr018)
 
 ### Other Resources
 
