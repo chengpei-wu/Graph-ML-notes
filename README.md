@@ -107,6 +107,8 @@ resources that I collected during my learning process.
 - [GNN papers](https://github.com/thunlp/GNNPapers)
 - [Graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [Graph Transformers](https://github.com/ChandlerBang/awesome-graph-transformer)
+- [Large Graph Model](https://github.com/THUMNLab/awesome-large-graph-model)
+- [GNN with out-of-distribution](https://github.com/THUMNLab/awesome-graph-ood)
 
 ### Blogs
 
