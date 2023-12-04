@@ -1,8 +1,7 @@
 # Graph ML Study
 
-This repository is created to keep track of my learning journey in the field of graph representation learning, graph
-neural networks, and graph classification. Here, you can find my study notes, code implementations, and other useful
-resources that I collected during my learning process.
+This repository is created to keep track of my learning journey in the field of graph machine learning. Here, you can
+find my study notes, code implementations, and other useful resources that I collected during my learning process.
 
 ## Study Materials
 
@@ -47,6 +46,7 @@ resources that I collected during my learning process.
 - [Provably Powerful Graph Networks, NIPS](https://proceedings.neurips.cc/paper/2019/hash/bb04af0f7ecaee4aae62035497da1387-Abstract.html)
 - [Self-Attention Graph Pooling, ICML](https://proceedings.mlr.press/v97/lee19c.html)
 - [Weisfeiler and leman go neural: higher-order graph neural networks, AAAI](https://dl.acm.org/doi/10.1609/aaai.v33i01.33014602)
+- [Simplifying Graph Convolutional Networks, ICML](https://arxiv.org/abs/1902.07153)
 
 #### 2020
 
@@ -96,11 +96,12 @@ resources that I collected during my learning process.
 
 - [[Book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
 - [[Book] Complex Network Books](https://1drv.ms/f/s!Asm9F-fHq1ErgReBq0gUXDez2fSJ)
-- [[Book] 动手学深度学习](https://zh-v2.d2l.ai)
+- [[Book] Dive into Deep Learning, 动手学深度学习](https://zh-v2.d2l.ai)
 - [[Python Framework] DGL](https://github.com/dmlc/dgl)
 - [[Python Framework] NetworkX](https://github.com/networkx/networkx)
 - [[Book] Graph Neural Networks: Foundations, Frontiers, and Applications](https://graph-neural-networks.github.io/index.html)
 - [[Course] CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/index.html#content)
+- [[Book] A brief introduction to Spectral Graph Theory](https://arxiv.org/abs/1609.08072)
 
 ### Other Repos
 
