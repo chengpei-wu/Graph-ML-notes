@@ -54,6 +54,8 @@ find my study notes, code implementations, and other useful resources that I col
 - [Distance encoding: design provably more powerful neural networks for graph representation learning, NIPS](https://dl.acm.org/doi/abs/10.5555/3495724.3496099)
 - [Haar Graph Pooling, ICML](https://arxiv.org/abs/1909.11580)
 - [Rethinking pooling in graph neural networks, NIPS](https://dl.acm.org/doi/abs/10.5555/3495724.3495911)
+- [A Generalization of Transformer Networks to Graphs, AAAI](https://arxiv.org/abs/2012.09699)
+- [Graph Contrastive Learning with Augmentations, NIPS](https://dl.acm.org/doi/abs/10.5555/3495724.3496212)
 
 #### 2021
 
