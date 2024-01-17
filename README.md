@@ -18,7 +18,7 @@ find my study notes, code implementations, and other useful resources that I col
 
 - [Learning Convolutional Neural Networks for Graphs, ICML](https://arxiv.org/abs/1605.05273)
 - [node2vec: Scalable Feature Learning for Networks, KDD](https://dl.acm.org/doi/10.1145/2939672.2939754)
-- [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)
+- [Variational Graph Auto-Encoders, NIPS](https://arxiv.org/abs/1611.07308)
 #### 2017
 
 - [Semi-Supervised Classification with Graph Convolutional Networks, ICLR](https://arxiv.org/abs/1609.02907)
