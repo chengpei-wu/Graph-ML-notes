@@ -93,7 +93,7 @@ find my study notes, code implementations, and other useful resources that I col
 - [$\mathcal{N}$-WL：A New Hierarchy of Expressivity for Graph Neural Networks, ICLR](https://openreview.net/forum?id=5cAI0qXxyv)
 - [Rethinking the Expressive Power of GNNs via Graph Biconnectivity, ICLR](https://arxiv.org/abs/2301.09505)
 - [Empowering Graph Representation Learning with Test-Time Graph Transformation, ICLR](https://openreview.net/forum?id=Lnxl5pr018)
-
+- [All in One: Multi-task Prompting for Graph Neural Networks, KDD](https://arxiv.org/abs/2307.01504)
 ### Other Resources
 
 - [[Book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
