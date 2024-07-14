@@ -28,13 +28,15 @@ find my study notes, code implementations, and other useful resources that I col
 - [Neural Message Passing for Quantum Chemistry, ICML](https://dl.acm.org/doi/10.5555/3305381.3305512)
 - [Semi-Supervised Classification with Graph Convolutional Networks, ICLR](https://openreview.net/forum?id=SJU4ayYgl)
 
+
 #### 2018
 
 - [Graph Attention Networks, ICLR](https://arxiv.org/abs/1710.10903)
 - [An End-to-End Deep Learning Architecture for Graph Classification, AAAI](https://aaai.org/papers/11782-an-end-to-end-deep-learning-architecture-for-graph-classification/)
-- [Graph Attention Networks, ICLR](https://openreview.net/forum?id=rJXMpikCZ)
 - [Hierarchical graph representation learning with differentiable pooling, NIPS](https://dl.acm.org/doi/10.5555/3327345.3327389)
 - [Link prediction based on graph neural networks, NIPS](https://dl.acm.org/doi/10.5555/3327345.3327423)
+- [Adversarial Attack on Graph Structured Data, ICML](https://proceedings.mlr.press/v80/dai18b/dai18b.pdf)
+- [Adversarial Attacks on Neural Networks for Graph Data, KDD](https://arxiv.org/abs/1805.07984)
 
 #### 2019
 
@@ -45,8 +47,13 @@ find my study notes, code implementations, and other useful resources that I col
 - [Graph U-Nets, ICML](https://arxiv.org/abs/1905.05178)
 - [Provably Powerful Graph Networks, NIPS](https://proceedings.neurips.cc/paper/2019/hash/bb04af0f7ecaee4aae62035497da1387-Abstract.html)
 - [Self-Attention Graph Pooling, ICML](https://proceedings.mlr.press/v97/lee19c.html)
-- [Weisfeiler and leman go neural: higher-order graph neural networks, AAAI](https://dl.acm.org/doi/10.1609/aaai.v33i01.33014602)
 - [Simplifying Graph Convolutional Networks, ICML](https://arxiv.org/abs/1902.07153)
+- [Adversarial Attacks on Graph Neural Networks via Meta Learning, ICLR](https://arxiv.org/abs/1902.08412)
+- [Deep Graph Infomax, ICLR](https://arxiv.org/abs/1809.10341)
+- [Certified Adversarial Robustness via Randomized Smoothing, ICML](https://arxiv.org/abs/1902.02918)
+- [Adversarial Examples on Graph Data：Deep Insights into Attack and Defense, IJCAI](https://arxiv.org/abs/1903.01610)
+- [A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning, MIPS](https://arxiv.org/abs/1910.14147)
+- [Attacking Graph-based Classification via Manipulating the graph structure, SIGSAC](https://arxiv.org/abs/1903.00553)
 
 #### 2020
 
@@ -56,6 +63,13 @@ find my study notes, code implementations, and other useful resources that I col
 - [Rethinking pooling in graph neural networks, NIPS](https://dl.acm.org/doi/abs/10.5555/3495724.3495911)
 - [A Generalization of Transformer Networks to Graphs, AAAI](https://arxiv.org/abs/2012.09699)
 - [Graph Contrastive Learning with Augmentations, NIPS](https://dl.acm.org/doi/abs/10.5555/3495724.3496212)
+- [Scalable Attack on Graph Data by Injecting Vicious Nodes, DMKD](https://arxiv.org/abs/2004.13825)
+- [InfoGraph：Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization, ICLR](https://arxiv.org/abs/1908.01000)
+- [Contrastive Multi-View Representation Learning on Graphs, ICML](https://arxiv.org/abs/2006.05582)
+- [Randomized Smoothing of All Shapes and Sizes, ICML](https://arxiv.org/abs/2002.08118)
+- [Reliable Graph Neural Networks via Robust Aggregation, NIPS](https://arxiv.org/abs/2010.15651)
+- [Towards More Practical Adversarial Attacks on Graph Neural Networks, NIPS](https://arxiv.org/abs/2006.05057)
+- [MGA：Momentum Gradient Attack on Network, TSS](https://arxiv.org/abs/2002.11320)
 
 #### 2021
 
@@ -67,6 +81,8 @@ find my study notes, code implementations, and other useful resources that I col
 - [Simple Spectral Graph Convolution, ICLR](https://openreview.net/forum?id=CYO5T-YjWZV)
 - [Understanding Pooling in Graph Neural Networks, TNNLS](https://arxiv.org/abs/2110.05292)
 - [Wasserstein Embedding for Graph Learning, ICLR](https://openreview.net/forum?id=AAes_3W-2z)
+- [Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation, KDD](https://arxiv.org/abs/2008.10715)
+- [Graph Contrastive Learning with Adaptive Augmentation, WWW](https://arxiv.org/abs/2010.14945)
 
 #### 2022
 
@@ -80,6 +96,7 @@ find my study notes, code implementations, and other useful resources that I col
 - [Topological Graph Neural Networks, ICLR](https://arxiv.org/abs/2102.07835)
 - [Universal Graph Transformer Self-Attention Networks, WWW](https://dl.acm.org/doi/10.1145/3487553.3524258)
 - [Survey on Graph Classification (图分类研究综述), Journal of Software](http://www.jos.org.cn/html/2022/1/6323.htm)
+- [Dual Space Graph Contrastive Learning, WWW](https://arxiv.org/abs/2201.07409)
 
 #### 2023
 
@@ -94,6 +111,11 @@ find my study notes, code implementations, and other useful resources that I col
 - [Rethinking the Expressive Power of GNNs via Graph Biconnectivity, ICLR](https://arxiv.org/abs/2301.09505)
 - [Empowering Graph Representation Learning with Test-Time Graph Transformation, ICLR](https://openreview.net/forum?id=Lnxl5pr018)
 - [All in One: Multi-task Prompting for Graph Neural Networks, KDD](https://arxiv.org/abs/2307.01504)
+- [Spectral Augmentation for Self-Supervised Learning on Graphs, ICLR](https://arxiv.org/abs/2210.00643)
+- [Generating Counterfactual Hard Negative Samples for Graph, WWW](https://arxiv.org/abs/2207.00148)
+
+
+
 ### Other Resources
 
 - [[Book] Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
